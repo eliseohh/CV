@@ -79,7 +79,9 @@ Detalles de Proyectos
 		Proyectos:
 			* Motor de búsquedas por criterios: Motor de búsquedas por criterio con DATA JPA (Criteria) 
 				y con Hibernate (Criterion).
+				
 			* Migración de microservicios: Migración de micro servicios desde Java 1.6 a plataformas internas, 
-				además Java 1.8 + Springboot
+				además Java 1.8 + Springboot.
+				
 			* Extracción de datos: DEX(Data Extract) ejecutado por un cronjob con Springboot para extraer datos, 
 				a un archivo .csv, Java 1.8

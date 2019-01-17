@@ -69,6 +69,7 @@ Detalles de Proyectos
 		Principal Financial Group
 		Proyectos:
 			* Endpoint Logger Springboot, por cada click se generaba un evento y un registro.
+			
 			* Nuevo módulo agregado para plataforma interna de clientes: 
 				Plataforma Internacional > Retorno de la cuenta.
 
@@ -76,9 +77,9 @@ Detalles de Proyectos
 		Ingeniero de Sofware Jr
 		Equifax OutSourcing - 23People
 		Proyectos:
-		* Motor de búsquedas por criterios: Motor de búsquedas por criterio con DATA JPA (Criteria) 
-			y con Hibernate (Criterion).
-		* Migración de microservicios: Migración de micro servicios desde Java 1.6 a plataformas internas, 
-			además Java 1.8 + Springboot
-		* Extracción de datos: DEX(Data Extract) ejecutado por un cronjob con Springboot para extraer datos, 
-			a un archivo .csv, Java 1.8
+			* Motor de búsquedas por criterios: Motor de búsquedas por criterio con DATA JPA (Criteria) 
+				y con Hibernate (Criterion).
+			* Migración de microservicios: Migración de micro servicios desde Java 1.6 a plataformas internas, 
+				además Java 1.8 + Springboot
+			* Extracción de datos: DEX(Data Extract) ejecutado por un cronjob con Springboot para extraer datos, 
+				a un archivo .csv, Java 1.8

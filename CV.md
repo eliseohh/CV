@@ -60,6 +60,7 @@ Relevant Work Experience
 		Principal Finantial Group - Contractor (from Bennu.cl)
 
 Projects Details
+
 	Jan 2020 - Today
 		Ssr. Java Developer
 		Chattigo @ Santiago, Chile

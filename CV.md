@@ -64,16 +64,12 @@ Projects Details
 	Jan 2020 - Today
 		Ssr. Java Developer
 		Chattigo @ Santiago, Chile
-		Projects:
-
 			* [2020] Developing bot for interviews using bot framework toolkit from Microsoft©.
 			* [2020] Supporting an internal strategy from client with multi tenant databses, using Apache Kafka, SpringBoot, NestJS.
 
 	Sep 2019 - Jan 2020
 		FullStack Developer
 		QWANTEC @ Santiago, Chile
-		Projects:
-
 			* [2019] Auditing data using DataJPA-Envers, for metrics analytics, and reports requested by clients
 			* [2019] Internal develop for a SaaS product, using Springboot, DataJPA, Javers
 			
@@ -86,5 +82,9 @@ Projects Details
 			* [2018] DataExtract of data with cronjob on Springboot, from data collection to.
 			* [2019] Upgrading internal components from Maven Module to Multi Module as framework for internal purpose.
 			
-	
+	March 2018 - Jul 2018
+		Jr. Java Developer
+		PFG @ Santiago, Chile 
+			* [2018] Endpoint logger through REST api and recording for data analysis.
+			* [2019] New module on internal platform for clients known as: Plataforma Internacional > Retorno de la cuenta 
 	
